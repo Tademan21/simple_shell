@@ -1,1 +1,1 @@
-my first low level programming language
+ C - Simple Shell
